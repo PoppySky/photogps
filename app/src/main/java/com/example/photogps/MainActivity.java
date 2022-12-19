@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
         imageView = (ImageView) findViewById(R.id.imageView);
         switch1 = (Switch) findViewById(R.id.switch1);
         textView = (TextView) findViewById(R.id.textView);
-        
+
     }
 
     public void klik(View view) {
